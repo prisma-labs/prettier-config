@@ -6,6 +6,9 @@
   "repository": "git@github.com:prisma-labs/prettier-config.git",
   "author": "Prisma Labs",
   "license": "MIT",
+  "files": [
+    "prettier-config.json"
+  ],
   "scripts": {
     "release:preview": "dripip preview",
     "release:stable": "dripip stable"
