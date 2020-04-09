@@ -441,7 +441,7 @@ dir-glob@^3.0.1:
   dependencies:
     path-type "^4.0.0"
 
-dripip@^0.8.0:
+dripip@0.8.0:
   version "0.8.0"
   resolved "https://registry.yarnpkg.com/dripip/-/dripip-0.8.0.tgz#f75d8606efcf615c21401f00e546d6480426c3bb"
   integrity sha512-m8pZLDveyEdXyK4zTzHfniCdQni8KnRskagrg30a46oIbvFi/IKbvqh4XqQHB4buVA2NCa4PO7uDm5P1Lk0AIg==
