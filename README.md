@@ -14,7 +14,7 @@ In your `package.json`
 
 ```json
 {
-  "prettier": "@azz/prettier-config"
+  "prettier": "@prisma-labs/prettier-config"
 }
 ```
 
@@ -22,7 +22,7 @@ If you wish you _extend_ these settings then in your `.prettierrc.js`
 
 ```js
 module.exports = {
-  ...require('@company/prettier-config'),
+  ...require('@prisma-labs/prettier-config'),
   semi: false,
 }
 ```
