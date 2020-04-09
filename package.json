@@ -5,6 +5,10 @@
   "repository": "git@github.com:prisma-labs/prettier-config.git",
   "author": "Prisma Labs",
   "license": "MIT",
+  "scripts": {
+    "release:preview": "dripip preview",
+    "release:stable": "dripip stable"
+  },
   "prettier": {
     "semi": false,
     "singleQuote": true
