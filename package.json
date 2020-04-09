@@ -1,6 +1,5 @@
 {
   "name": "@prisma-labs/prettier-config",
-  "private": false,
   "version": "0.1.0-next.1",
   "main": "prettier-config.json",
   "repository": "git@github.com:prisma-labs/prettier-config.git",
