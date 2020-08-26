@@ -17,6 +17,6 @@
     "singleQuote": true
   },
   "devDependencies": {
-    "dripip": "0.8.0"
+    "dripip": "0.10.0"
   }
 }
